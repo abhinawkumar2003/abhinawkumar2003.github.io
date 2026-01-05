@@ -1,0 +1,7 @@
+title: Abhinaw Kumar
+description: Computational Chemist | Machine Learning | Statistical Mechanics | Multiscale Modeling
+url: "https://abhinawkumar2003.github.io/"
+baseurl: ""      # keep "" for user.github.io or custom domain root
+markdown: kramdown
+theme: null
+permalink: pretty
